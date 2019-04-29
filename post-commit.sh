@@ -24,7 +24,7 @@ DATE_TODAY=$(date +"%Y-%m-%d")
 # You can edit the LABEL value if you would rather
 # describe these commits differently.
 
-LABEL='Code Commit'
+LABEL='Commit'
 
 # See more filtering examples in README.md
 
